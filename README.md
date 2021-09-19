@@ -57,7 +57,8 @@
 
 # <b> Dependencies </b>
 - This front-end app does not require any backend dependency to be installed or run locally.
--It fetches JSON data from a static page hosted on github
+-It fetches JSON data from a static page hosted on github,
+[View Page](https://s3kamble.github.io/webpage-rendering-data/companyData.json)
 
 
 # Installation
