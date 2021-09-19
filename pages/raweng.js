@@ -1,6 +1,5 @@
 import Navigation from "../components/Navigation/Navigation";
 import Footer from "../components/Footer/Footer";
-
 import styles from "../styles/RawEngg.module.css"
 
 function raweng({RE}){
@@ -10,7 +9,7 @@ function raweng({RE}){
         <div className={styles.container}>
           <div className={styles.about}>
             <p className={styles.subHeading}>{RE.mainContent.mainSubHeading}</p>
-            <img className={styles.image} src={RE.mainContent.mainImage}></img>
+            <img className={styles.image} src={RE.mainContent.mainImage} alt="Raw Engg Description Image"></img>
             <p className={styles.heading}>{RE.mainContent.mainHeading}</p>
           </div>
           <p className={styles.content}>{RE.mainContent.mainBody}</p>

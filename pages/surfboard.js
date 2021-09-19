@@ -7,7 +7,7 @@ function surfboard({SB}){
         <>
        
         <Navigation links={SB.navLinks} logo={SB.logoUrl} heading={SB.mainContent.mainHeading} />
-         <img className={styles.image} src={SB.mainContent.mainImage}></img>
+         <img className={styles.image} src={SB.mainContent.mainImage} alt="Surfboard description Image"></img>
         <div className={styles.container}>
           <p  className={styles.subHeading}>{SB.mainContent.mainSubHeading}</p>
           <p  className={styles.content}>{SB.mainContent.mainBody}</p>

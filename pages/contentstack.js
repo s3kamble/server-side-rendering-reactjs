@@ -13,7 +13,7 @@ function contentstack({cs}){
             <h3 className={styles.subHeading}>{cs.mainContent.mainSubHeading}</h3>
             <p className={styles.content}>{cs.mainContent.mainBody}</p>
           </div>
-          <img className={styles.image} src={cs.mainContent.mainImage}></img>
+          <img className={styles.image} src={cs.mainContent.mainImage} alt="Contentstack description Image"></img>
         </div>
         <Footer heading={cs.mainContent.mainHeading} logo={cs.logoUrl} />
         </>
