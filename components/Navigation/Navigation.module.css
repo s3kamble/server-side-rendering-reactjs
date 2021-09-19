@@ -1,0 +1,82 @@
+
+.navBar{
+    height:20%;
+    margin-bottom: 2% ;
+    border:0.5px solid orange;
+    display:flex;
+    justify-content: space-between;
+    width:100%;
+    background-color: grey;
+    color:orange;
+      z-index: 9;
+    top:0;
+    position:sticky;
+}
+
+.logo{
+    margin-left:2%;
+    margin-top:0.5%;
+    margin-bottom:0.5%
+
+}
+
+.logoImg{
+    height:4rem;
+    width:12rem;
+}
+
+.navlinks{
+    margin-right: 2%;  
+    display:flex;
+    flex: row;
+    font-size: 1.2rem;
+}
+
+.links{
+    font-family: 'Glory', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    /* color:orange; */
+    margin: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 600    ;
+}
+
+.links:hover{
+    color:wheat
+}
+
+.title{
+    /* color:orange; */
+    font-family: 'Glory', sans-serif;
+    font-weight:700;
+    font-size: 2rem;
+    margin-left: 10rem;
+}
+
+
+
+
+@media(max-width:1050px){
+    .navlinks{
+        display: none;
+    }
+    
+    .title{
+        margin-left: 0;
+    }
+    .navBar{
+        margin-bottom: 5rem;
+    }
+}
+
+@media(max-width:550px){
+    .navBar{
+        margin-bottom: 10rem;
+    }
+    
+    .title{
+       font-size: 1.8rem;
+    }
+}
+

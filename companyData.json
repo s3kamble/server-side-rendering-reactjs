@@ -1,0 +1,64 @@
+{   "baseUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images",
+    "navData":{
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/TECH.png",
+        "navHeading":"TechSurf",
+        "navSubHeading":"-Your Tech Partner"
+    },
+    "RE":{
+        "navLinks":[
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Surfboard", "link": "/surfboard"}], 
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/Raw%20Engineering.png",
+        "mainContent":{
+            "mainHeading":"Raw Engineering",
+            "mainSubHeading":"Fast Track Innovation From Vision to Reality",
+            "mainImage":"https://s3kamble.github.io/webpage-rendering-data/companies-images/rawengg-img.jpg",
+            "mainBody":"Raw Engineering is an Innovative Digital Solutions company providing Digital Transformation Strategy and Custom Development Services. We partner with the world’s best Fortune 500 Enterprises and Startups to deliver Headless CMS Strategy & Implementation, Mobile Apps, Websites, SaaS Products, Cloud Strategy, DevOps and SRE Solutions. "
+        }
+    },
+    "CS":{
+        "navLinks":[ 
+            {"name":"Home", "link": "/"},
+            {"name": "Raw Eng", "link": "/raweng"},
+            {"name": "Surfboard", "link": "/surfboard"}], 
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/Contentstack.png",
+        "mainContent":{
+            "mainHeading":"Contentstack",
+            "mainSubHeading":"The Future Fit Content Management System",
+            "mainImage":"https://s3kamble.github.io/webpage-rendering-data/companies-images/contentstack-img.jpg",
+            "mainBody":"Meet the new breed of CMS: Designed to own the content for every channel: the web, mobile, wearables, AR/VR, voice assistants, in-game, in-store, and more. With Contentstack, you can run your best-of-breed MarTech stack with lightning speed and endless adaptability."
+        }
+    },
+    "SB":{
+        "navLinks":[ 
+            {"name":"Home", "link": "/"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Eng", "link": "/raweng"}], 
+        "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/Surfboard%20India.png",
+        "mainContent":{
+            "mainHeading":"Surfboard Ventures",
+            "mainSubHeading":"The Entrepreneur’s Surfboard",
+            "mainImage":"https://s3kamble.github.io/webpage-rendering-data/companies-images/surfboard-img.jpg",
+            "mainBody":"Entrepreneurship isn’t just about the end game. It’s about the journey. There are ups and downs. Your resilience stands tall against the roughest seas. Sometimes you prevail. Sometimes you wipe out. We are here to help remarkable entrepreneurs to “just keep paddling” and provide the courage they need to ride the highest of waves."
+        }
+        
+    },
+    "Home":{
+        "navLinks":[ 
+            {"name":"Surfboard Ventures", "link": "/surfboard"},
+            {"name": "Contentstack", "link": "/contentstack"},
+            {"name": "Raw Eng", "link": "/raweng"}], 
+        "mainContent":{
+            "mainHeading":"TECHSURF",
+            "mainSubHeading":"Let us help you with technology....",
+            "mainImage":"https://s3kamble.github.io/webpage-rendering-data/companies-images/techsurf-img.jpg",
+            "mainBody":"Our partners:Raw Engineering,Contentstack,Surfboard Ventures.We will ensure that all elements of your web creation are consistent.We provide you with bespoke solutions for your web app.We are a one stop solution for beautiful websites with optimized web pages that maintain your brand's consistency.WE ARE TECHSURF's."
+        }
+    },
+    "footerData":{
+            "logoUrl":"https://s3kamble.github.io/webpage-rendering-data/companies-images/TECH.png",
+            "copyrightInfo":"",
+            "links":[]
+    }
+}

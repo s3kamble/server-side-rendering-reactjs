@@ -1,0 +1,61 @@
+
+.footerBar{
+    height:20%;
+    margin-top: 2% ;
+    border:0.5px solid orange;
+    display:flex;
+    justify-content: space-between;
+    width:100%;
+    background-color: grey;
+    color:orange;
+}
+
+.logo{
+    margin-left:2%;
+    margin-top:0.5%;
+    margin-bottom:0.5%
+
+}
+
+.logoImg{
+    height:4rem;
+    width:12rem;
+}
+
+.footerlinks{
+    margin-right: 2%;  
+    display:flex;
+    flex: row;
+    font-size: 1.2rem;
+}
+
+.links{
+    font-family: 'Glory', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    margin: 0.5rem;
+    size:4rem;
+}
+
+.links:hover{
+    color:wheat
+}
+
+.title{
+    /* color:orange; */
+    font-family: 'Glory', sans-serif;
+    font-weight:700;
+    font-size: 2rem;
+}
+
+
+
+@media(max-width:600px){
+    
+    
+    .title{
+        margin-left: 3rem;
+       font-size: 1.5rem;
+    }
+}
+
